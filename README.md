@@ -1,4 +1,3 @@
-# technodidact.github.io
 # My List
 
 ## Food and Calories
